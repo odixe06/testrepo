@@ -6,6 +6,8 @@ cin.tie(nullptr);
 cout << "goodbye world";
 int a, b;
 cout << a + b;
+int c, d;
+cout << c - d;
     return 0;
 }
 
